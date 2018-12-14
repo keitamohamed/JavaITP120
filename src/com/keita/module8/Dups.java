@@ -1,4 +1,4 @@
-package com.module8;
+package com.keita.module8;
 
 import java.util.*;
 

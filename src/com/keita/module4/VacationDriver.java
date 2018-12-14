@@ -1,6 +1,6 @@
-package com.module4;
+package com.keita.module4;
 
-import com.module4.vacation.blueprint.Vacation;
+import com.keita.module4.vacation.blueprint.Vacation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.module6.insurance;
+package com.keita.module6.insurance;
 
 public class LifeInsurance extends Insurance {
     // declare two new fields added - the amount of insurance

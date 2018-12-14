@@ -1,6 +1,6 @@
-package com.module5;
+package com.keita.module5;
 
-import com.module5.drinkblueprint.Drinks;
+import com.keita.module5.drinkblueprint.Drinks;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;

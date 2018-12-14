@@ -1,4 +1,4 @@
-package com.reading.employee.blueprint;
+package com.keita.reading.employee.blueprint;
 
 import java.io.Serializable;
 import java.text.NumberFormat;

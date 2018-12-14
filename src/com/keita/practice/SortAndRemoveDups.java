@@ -1,4 +1,4 @@
-package com.practice;
+package com.keita.practice;
 
 import java.util.*;
 

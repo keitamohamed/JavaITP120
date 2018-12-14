@@ -1,6 +1,8 @@
-package com.module3;
+package com.keita.module3;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class LargeSmall {
     public static void main(String[] args) {

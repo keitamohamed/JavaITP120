@@ -1,4 +1,4 @@
-package com.module6.insurance;
+package com.keita.module6.insurance;
 
 import java.text.NumberFormat;
 

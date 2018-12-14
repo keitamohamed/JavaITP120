@@ -1,6 +1,6 @@
-package com.module3;
+package com.keita.module3;
 
-import com.module3.blueprint.RetailItem;
+import com.keita.module3.blueprint.RetailItem;
 
 import java.util.ArrayList;
 import java.util.List;

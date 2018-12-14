@@ -1,4 +1,4 @@
-package com.module5.rentalblueprint;
+package com.keita.module5.rentalblueprint;
 
 public class Auto {
     private int year;

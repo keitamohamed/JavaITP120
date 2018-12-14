@@ -1,4 +1,4 @@
-package com.practice;
+package com.keita.practice;
 
 public class Peter extends Human {
 

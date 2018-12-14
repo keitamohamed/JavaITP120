@@ -1,4 +1,4 @@
-package com.module3;
+package com.keita.module3;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.module6.robot;
+package com.keita.module6.robot;
 
 interface Toy {
     void play();

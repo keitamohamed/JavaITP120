@@ -1,4 +1,4 @@
-package com.finalproject;
+package com.keita.finalproject;
 
 import java.io.Serializable;
 import java.text.NumberFormat;

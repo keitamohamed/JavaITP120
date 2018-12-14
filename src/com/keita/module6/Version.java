@@ -1,6 +1,6 @@
-package com.module6;
+package com.keita.module6;
 
-import com.module6.employeeinventory.Methods;
+import com.keita.module6.employeeinventory.Methods;
 
 import java.util.Scanner;
 

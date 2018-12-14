@@ -1,4 +1,4 @@
-package com.module5;
+package com.keita.module5;
 
 public class RainFallDriver {
     public static void main(String[] args) {

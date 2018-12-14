@@ -1,11 +1,7 @@
-package com.theatre;
+package com.keita.theatre;
 
 import java.awt.*;
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class Main {

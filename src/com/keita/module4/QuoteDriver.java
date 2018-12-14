@@ -1,6 +1,7 @@
-package com.module4;
+package com.keita.module4;
 
-import com.module4.quoter.blueprint.Quote;
+
+import com.keita.module4.quoter.blueprint.Quote;
 
 import java.util.Scanner;
 

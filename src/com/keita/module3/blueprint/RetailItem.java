@@ -1,4 +1,4 @@
-package com.module3.blueprint;
+package com.keita.module3.blueprint;
 
 import java.text.NumberFormat;
 

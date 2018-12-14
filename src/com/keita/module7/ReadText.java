@@ -1,4 +1,4 @@
-package com.module7;
+package com.keita.module7;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;

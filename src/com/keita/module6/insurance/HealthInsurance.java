@@ -1,4 +1,4 @@
-package com.module6.insurance;
+package com.keita.module6.insurance;
 
 public class HealthInsurance extends Insurance {
     // create a new field called numDependents which is an integer

@@ -1,4 +1,4 @@
-package com.module3;
+package com.keita.module3;
 
 public class DiceGame {
     public static void main(String[] args) {

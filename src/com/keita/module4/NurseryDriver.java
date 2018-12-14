@@ -1,7 +1,7 @@
-package com.module4;
+package com.keita.module4;
 
-import com.module4.nursery.blueprint.Inventory;
-import com.module4.nursery.blueprint.Supplier;
+import com.keita.module4.nursery.blueprint.Inventory;
+import com.keita.module4.nursery.blueprint.Supplier;
 
 import java.util.Scanner;
 

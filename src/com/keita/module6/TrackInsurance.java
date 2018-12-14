@@ -1,6 +1,6 @@
-package com.module6;
+package com.keita.module6;
 
-import com.module6.insurance.*;
+import com.keita.module6.insurance.*;
 
 import java.util.ArrayList;
 import java.util.Collections;

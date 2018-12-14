@@ -1,4 +1,4 @@
-package com.theatre;
+package com.keita.theatre;
 
 import java.text.NumberFormat;
 

@@ -1,4 +1,4 @@
-package com.module3;
+package com.keita.module3;
 
 import java.text.NumberFormat;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.finalproject;
+package com.keita.finalproject;
 
 import java.util.ArrayList;
 import java.util.List;

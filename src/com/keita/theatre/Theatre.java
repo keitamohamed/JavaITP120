@@ -1,10 +1,11 @@
-package com.theatre;
+package com.keita.theatre;
 
 import java.awt.*;
 import java.io.*;
 import java.text.NumberFormat;
-import java.util.*;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class Theatre {
     private Scanner sc = new Scanner(System.in);

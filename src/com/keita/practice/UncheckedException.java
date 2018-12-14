@@ -1,4 +1,4 @@
-package com.practice;
+package com.keita.practice;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

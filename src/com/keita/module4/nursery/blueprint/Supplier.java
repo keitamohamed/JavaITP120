@@ -1,4 +1,4 @@
-package com.module4.nursery.blueprint;
+package com.keita.module4.nursery.blueprint;
 
 public class Supplier {
 

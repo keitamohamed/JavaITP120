@@ -1,4 +1,4 @@
-package com.module6.employeeinventory;
+package com.keita.module6.employeeinventory;
 
 public class Invoice implements Calculable{
     private int num;

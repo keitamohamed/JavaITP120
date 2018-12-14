@@ -1,4 +1,4 @@
-package com.module4.vacation.blueprint;
+package com.keita.module4.vacation.blueprint;
 
 import java.text.NumberFormat;
 

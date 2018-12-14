@@ -1,4 +1,4 @@
-package com.module5.drinkblueprint;
+package com.keita.module5.drinkblueprint;
 
 import java.text.NumberFormat;
 

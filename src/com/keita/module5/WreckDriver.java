@@ -1,8 +1,8 @@
-package com.module5;
+package com.keita.module5;
 
-import com.module5.rentalblueprint.Auto;
-import com.module5.rentalblueprint.Customer;
-import com.module5.rentalblueprint.Rental;
+import com.keita.module5.rentalblueprint.Auto;
+import com.keita.module5.rentalblueprint.Customer;
+import com.keita.module5.rentalblueprint.Rental;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;

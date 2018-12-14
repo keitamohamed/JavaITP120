@@ -1,4 +1,4 @@
-package com.module6;
+package com.keita.module6;
 
 public class HumanDriver {
     public static void main(String[] args) {

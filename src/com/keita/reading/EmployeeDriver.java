@@ -1,6 +1,6 @@
-package com.reading;
+package com.keita.reading;
 
-import com.reading.employee.blueprint.Employee;
+import com.keita.reading.employee.blueprint.Employee;
 
 import java.awt.*;
 import java.io.*;

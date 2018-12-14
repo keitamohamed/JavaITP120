@@ -1,4 +1,4 @@
-package com.module7;
+package com.keita.module7;
 
 import java.awt.*;
 import java.io.BufferedReader;
