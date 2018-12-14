@@ -1,0 +1,4 @@
+EMPID       Name            Salary
+5623,       William Smith,   38203
+7823,       John Smith,     54213
+6782,       Ashely Keth,     67234
